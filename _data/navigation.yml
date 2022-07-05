@@ -9,8 +9,11 @@ main:
   - title: "🧑🏻‍About"
     url: /about/
 
-  - title: "🏠연도별 포스트"
-    url: /posts/
+  - title: "🕛Yearly"
+    url: /year/
+    
+  - title: "📅Monthly"
+    url: /month/
 
  
 
