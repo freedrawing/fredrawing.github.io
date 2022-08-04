@@ -10,6 +10,7 @@ tags:
     - Climate
     - Disaster
     - How to avoid climate disater
+    - Energy
 last_modified_at: 2022-08-04T01:36:00-05:00
 ---
 
