@@ -1,5 +1,5 @@
 ---
-title: "팩트풀니스 우리가 세상을 오해하는 10가지 이유와 세상이 생각보다 괜찮은 이유 (Factfulness: Ten Reasons We're Wrong About the World — and Why Things Are Better Than You Think"
+title: "팩트풀니스 우리가 세상을 오해하는 10가지 이유와 세상이 생각보다 괜찮은 이유 (Factfulness: Ten Reasons We're Wrong About the World — and Why Things Are Better Than You Think)"
 excerpt: "Factfulness: Ten Reasons We're Wrong About the World — and Why Things Are Better Than You Think"
 header:
   teaser: "https://user-images.githubusercontent.com/43941383/185550311-404798ac-f699-48b8-a485-3dc4c7ce7e75.png"
