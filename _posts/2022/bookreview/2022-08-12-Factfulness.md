@@ -2,7 +2,7 @@
 title: "팩트풀니스 우리가 세상을 오해하는 10가지 이유와 세상이 생각보다 괜찮은 이유 (Factfulness: Ten Reasons We're Wrong About the World — and Why Things Are Better Than You Think"
 excerpt: "Factfulness: Ten Reasons We're Wrong About the World — and Why Things Are Better Than You Think"
 header:
-  teaser: "https://media-exp1.licdn.com/dms/image/C5622AQEb6FxkCcWCAg/feedshare-shrink_800/0/1660215875413?e=1663804800&v=beta&t=peGvHc7ZWPKNJalV1qnOqxrVGUC0xLUCC1Seq3MdtdM"
+  teaser: "https://user-images.githubusercontent.com/43941383/185550311-404798ac-f699-48b8-a485-3dc4c7ce7e75.png"
 categories:
   - Book review
 tags:
@@ -13,7 +13,7 @@ tags:
 last_modified_at: 2022-08-12T01:36:00-05:00
 ---
 
-![book_image](https://media-exp1.licdn.com/dms/image/C5622AQEb6FxkCcWCAg/feedshare-shrink_800/0/1660215875413?e=1663804800&v=beta&t=peGvHc7ZWPKNJalV1qnOqxrVGUC0xLUCC1Seq3MdtdM)
+![book_image]https://user-images.githubusercontent.com/43941383/185550311-404798ac-f699-48b8-a485-3dc4c7ce7e75.png)
 
 많은 사람들로부터 찬사를 받은 책이길래, 나 역시 왜 이 책이 다른 사람들이 많이 읽혔나 알고 싶었다. Hans Rolsing은 스웨덴에서 태어나서 공중 보건 분야에서 의사로 일하다가 어린 시절에 배운 낡은 세계관에 대한 사람들의 오해와 편견과 싸운 통계학자이기도 하다. 우선 책 자체가 매우 잘 읽혀서 좋았다. 어려운 표현이나 자료로 사용된 도표들이 어려운 내용이 아닌, 누구나 읽거나 해석하기가 쉬었다. 무언가에 몰입하는 능력이 부족한 나 역시 쉽게 읽히는 책이었다(그렇다고 몇 시간 스트레이트로 읽지는 못했다. 이 부분 역시 꾸준히 개선해야 할 문제이다).
 
