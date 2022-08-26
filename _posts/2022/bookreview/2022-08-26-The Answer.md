@@ -1,5 +1,5 @@
 ---
-title: "The Answer by 뉴욕주만"
+title: "The Answer by 뉴욕주민"
 excerpt: "The Answer"
 header:
   teaser: "https://user-images.githubusercontent.com/43941383/186827964-ef60f0ab-3ca0-4c8c-9572-876875242a28.jpg"
