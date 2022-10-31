@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "ko-KR"
-title                    : "Corhythm's Scribbling"
+title                    : "SEONGUK's scribbling"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Corhythm (SU KANG)"
@@ -104,7 +104,8 @@ analytics:
 # Site Author
 author:
   name             : "Corhythm (SU KANG)"
-  avatar           : "https://user-images.githubusercontent.com/43941383/154608366-cfb427fc-a406-4ae3-a232-31d0ba1bf022.JPG"
+  # avatar           : "https://user-images.githubusercontent.com/43941383/154608366-cfb427fc-a406-4ae3-a232-31d0ba1bf022.JPG"
+  avatar           : "https://user-images.githubusercontent.com/43941383/198928647-3707d5dc-81f2-47e9-b6e7-204f6d95004c.jpeg"
   bio              : "아무것도 하기 싫은 백수"
   location         : "Republic of Korea"
   email            : "dnr2144@gmail.com"
