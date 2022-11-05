@@ -4,7 +4,7 @@ excerpt: "How to avoid a climate disaster"
 header:
   teaser: "https://images-na.ssl-images-amazon.com/images/I/71291WM4VQL.jpg"
 categories:
-  - Book review
+  - BookReview
 tags:
     - Bill Gates
     - Climate
