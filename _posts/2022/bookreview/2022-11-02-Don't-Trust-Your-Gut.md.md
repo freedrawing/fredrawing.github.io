@@ -6,7 +6,7 @@ header:
 toc: true
 toc_sticky: true
 categories:
-  - Book review
+  - BookReview
 tags:
   - Don't Trust Your Gut 
   - Seth Isaac Stephens-Davidowitz

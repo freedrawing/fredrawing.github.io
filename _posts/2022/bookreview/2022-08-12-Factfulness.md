@@ -4,7 +4,7 @@ excerpt: "Factfulness: Ten Reasons We're Wrong About the World — and Why Thing
 header:
   teaser: "https://user-images.githubusercontent.com/43941383/185550311-404798ac-f699-48b8-a485-3dc4c7ce7e75.png"
 categories:
-  - Book review
+  - BookReview
 tags:
     - Factfulness
     - Hans Rosling
