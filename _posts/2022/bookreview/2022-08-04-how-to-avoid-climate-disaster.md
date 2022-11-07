@@ -6,12 +6,12 @@ header:
 categories:
   - BookReview
 tags:
-    - Bill Gates
-    - Climate
-    - Disaster
-    - How to avoid climate disater
-    - Energy
-    - Greenhouse gases
+  - Bill Gates
+  - Climate
+  - Disaster
+  - How to avoid climate disater
+  - Energy
+  - Greenhouse gases
 last_modified_at: 2022-08-04T01:36:00-05:00
 ---
 

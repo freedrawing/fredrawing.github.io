@@ -6,10 +6,10 @@ header:
 categories:
   - BookReview
 tags:
-    - Factfulness
-    - Hans Rosling
-    - Anna Rosling Rönnlund
-    - Ola Rosling
+  - Factfulness
+  - Hans Rosling
+  - Anna Rosling Rönnlund
+  - Ola Rosling
 last_modified_at: 2022-08-12T01:36:00-05:00
 ---
 

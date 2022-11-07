@@ -6,11 +6,11 @@ header:
 categories:
   - BookReview
 tags:
-    - Wall Street
-    - 뉴욕주민
-    - 투자
-    - 주식
-    - The answer
+  - Wall Street
+  - 뉴욕주민
+  - 투자
+  - 주식
+  - The answer
 last_modified_at: 2022-08-26T01:36:00-05:00
 ---
 
