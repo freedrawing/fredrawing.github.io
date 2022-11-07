@@ -1,18 +1,21 @@
 ---
-title: "How to avoid a climate disaster [Bill Gates]"
-excerpt: "How to avoid a climate disaster"
+title: "빌 게이츠, 기후재앙을 피하는 법 (How to avoid a climate disaster)"
+excerpt: "빌 게이츠, 기후재앙을 피하는 법 (How to avoid a climate disaster)"
 header:
   teaser: "https://images-na.ssl-images-amazon.com/images/I/71291WM4VQL.jpg"
+toc: true
+toc_sticky: true
+is_book_review: true
 categories:
   - BookReview
 tags:
-  - Bill Gates
-  - Climate
-  - Disaster
-  - How to avoid climate disater
-  - Energy
-  - Greenhouse gases
-last_modified_at: 2022-08-04T01:36:00-05:00
+    - Bill Gates
+    - Climate
+    - Disaster
+    - How to avoid climate disater
+    - Energy
+    - Greenhouse gases
+visibility: true
 ---
 
 ![book_image](https://images-na.ssl-images-amazon.com/images/I/71291WM4VQL.jpg)
@@ -23,10 +26,10 @@ last_modified_at: 2022-08-04T01:36:00-05:00
 
 2020년을 기준으로 인류는 약 510억 톤의 온실가스를 배출했다고 한다. 솔직히 책을 다 읽은 이 시점에서도 이 수치가 얼마나 치명적인지는 아직 내가 가진 정보의 틀 내에서는 잘 모르겠다. 이 배출량 중 대략적인 비율은 다음과 같다.
 
-1. 무언가를 만드는 것(시멘트, 철, 플라스틱 등) -> 31%
-2. 전기(전력 생산) -> 27%
-3. 무언가를 기르는 것(식물, 동물) -> 19%
-4. 어딘가로 이동하는 것(비행기, 트럭, 화물선) -> 16%
-5. 따뜻하고 시원하게 하는 것(냉난방 시설, 냉장고) -> 7%
+1. 무언가를 만드는 것(시멘트, 철, 플라스틱 등) -> ***31%***
+2. 전기(전력 생산) -> ***27%***
+3. 무언가를 기르는 것(식물, 동물) -> ***19%***
+4. 어딘가로 이동하는 것(비행기, 트럭, 화물선) -> ***16%***
+5. 따뜻하고 시원하게 하는 것(냉난방 시설, 냉장고) -> ***7%***
 
 솔직히 위 수치를 보고 좀 막막했다. 내 사고의 틀에서는 그냥 전력 생산 필드에서만 혁신을 이뤄낸다면, 기후 위기를 어느정도 극복할 수 있지 않을까라고 내심 생각했지만, 전력 생산이 온실가스 배출에 차지하는 비중이 1등이 아니라는 점에서 충격이었다. 그래서 진정한 의미에서 2050년까지 탄소중립을 이루려면 우리 삶의 전반적인 영역을 충격적인 정도로 개조할 수밖에 없다고 결론내렸다. 지금 이 글을 쓰고 있는 시점(여름)에 내가 시원함을 느낄 수 있는 것 역시 앞으로는 느끼지 못할 수도 있다. 온실가스 감축으로는 안 된다. 그건 시간을 버는 효과는 있을지언정, 이미 방출된 온실가스로도 충분히 재앙같은 시나리오가 가능하다. 요는 온실가스 방출 zero로 가야한다. 이를 위해서는 전지구적 협력이 필요할 텐데, 가능할까? 부유한 사람들이 자신들의 불편을 감수하려고 할까? 그런 도덕심을 가진 이가 몇이나 될까. 나는 솔직히 조금 회의적이다.

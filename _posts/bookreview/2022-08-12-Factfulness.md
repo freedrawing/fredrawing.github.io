@@ -1,16 +1,21 @@
 ---
-title: "팩트풀니스 우리가 세상을 오해하는 10가지 이유와 세상이 생각보다 괜찮은 이유 (Factfulness: Ten Reasons We're Wrong About the World — and Why Things Are Better Than You Think)"
+title: "팩트풀니스: 우리가 세상을 오해하는 10가지 이유와 세상이 생각보다 괜찮은 이유 (Factfulness: Ten Reasons We're Wrong About the World — and Why Things Are Better Than You Think)"
 excerpt: "Factfulness: Ten Reasons We're Wrong About the World — and Why Things Are Better Than You Think"
 header:
   teaser: "https://user-images.githubusercontent.com/43941383/185550311-404798ac-f699-48b8-a485-3dc4c7ce7e75.png"
+toc: true
+toc_sticky: true
+is_book_review: true
 categories:
   - BookReview
 tags:
-  - Factfulness
-  - Hans Rosling
-  - Anna Rosling Rönnlund
-  - Ola Rosling
-last_modified_at: 2022-08-12T01:36:00-05:00
+    - Factfulness
+    - Hans Rosling
+    - Anna Rosling Rönnlund
+    - Ola Rosling
+    - 편견
+    - 세계는 점점 나아지고 있다
+visibility: true
 ---
 
 ![book_image](https://user-images.githubusercontent.com/43941383/185550311-404798ac-f699-48b8-a485-3dc4c7ce7e75.png)

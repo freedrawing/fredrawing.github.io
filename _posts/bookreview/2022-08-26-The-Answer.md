@@ -1,17 +1,20 @@
 ---
-title: "The Answer by 뉴욕주민"
-excerpt: "The Answer"
+title: "The Answer (뉴욕주민)"
+excerpt: "The Answer (뉴욕주민)"
 header:
   teaser: "https://user-images.githubusercontent.com/43941383/186827964-ef60f0ab-3ca0-4c8c-9572-876875242a28.jpg"
+toc: true
+toc_sticky: true
+is_book_review: true
 categories:
   - BookReview
 tags:
-  - Wall Street
-  - 뉴욕주민
-  - 투자
-  - 주식
-  - The answer
-last_modified_at: 2022-08-26T01:36:00-05:00
+    - Wall Street
+    - 뉴욕주민
+    - 투자
+    - 주식
+    - The answer
+visibility: true
 ---
 
 ![book_image](https://user-images.githubusercontent.com/43941383/186827964-ef60f0ab-3ca0-4c8c-9572-876875242a28.jpg)
